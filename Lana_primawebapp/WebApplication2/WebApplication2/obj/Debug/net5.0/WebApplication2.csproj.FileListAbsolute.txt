@@ -32,3 +32,4 @@ C:\Users\Utente\Documents\GitHub\primawebapp-Wasureta333\Lana_primawebapp\WebApp
 C:\Users\Utente\Documents\GitHub\primawebapp-Wasureta333\Lana_primawebapp\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.RazorTargetAssemblyInfo.cs
 C:\Users\Utente\Documents\GitHub\primawebapp-Wasureta333\Lana_primawebapp\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.Views.pdb
 C:\Users\Utente\Documents\GitHub\primawebapp-Wasureta333\Lana_primawebapp\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.csproj.CopyComplete
+C:\Users\Utente\Documents\GitHub\primawebapp-Wasureta333\Lana_primawebapp\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Pages\Risposta.cshtml.g.cs
