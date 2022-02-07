@@ -9,8 +9,13 @@ namespace WebApplication2.Pages
 {
     public class RispostaModel : PageModel
     {
-        public void OnGet()
+        public string Nome { get; set; }
+
+        public string Cognome { get; set;  }
+        public void OnGet(string nome, string cognome)
         {
+            Nome = nome;
+            Cognome = cognome;
         }
     }
 }
