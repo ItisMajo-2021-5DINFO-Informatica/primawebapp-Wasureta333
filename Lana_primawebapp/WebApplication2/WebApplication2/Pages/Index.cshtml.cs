@@ -4,13 +4,17 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Data.SqlClient;
 
 namespace WebApplication2.Pages
 {
     public class IndexModel : PageModel
     {
+
         public void OnGet()
         {
+
         }
     }
+
 }
